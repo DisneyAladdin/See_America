@@ -11,4 +11,11 @@ Download files
 
 Install "Processing" here https://processing.org/download/
 
-Open 
+Open "see_america.pde" on "Processing" and run!
+
+# Licence
+University of Tsukuba
+
+As a task of lecture
+
+
